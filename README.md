@@ -1,0 +1,2 @@
+# GDP-per-capita-forecasting-using-ARIMA-and-Auto-ARIMA
+The main aim of this project is to research and develop a robust linear model to forecast world per capita GDP for the next 5 – 7 years using univariate Autoregressive Integrated Moving Average models (ARIMA). In addition, we also propose to reveal the regularity of per capita GDP Growth, via other state-of-the-art time series models to carry out an out-fit-sample forecasting.
